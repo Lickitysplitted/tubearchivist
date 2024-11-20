@@ -5,7 +5,7 @@ django-cors-headers==3.11.0
 djangorestframework==3.13.1
 Pillow==9.0.1
 redis==4.2.0
-requests==2.27.1
+requests==2.32.2
 ryd-client==0.0.3
 uWSGI==2.0.20
 whitenoise==6.0.0
